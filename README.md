@@ -2,4 +2,4 @@
 
 Website: https://bams-designs.github.io/
 
-This is our 2023 Build18 project: Forgot My Stuff.
+This is our 2023 Build18 project: Forgetful Friend RFID Reader
