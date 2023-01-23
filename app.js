@@ -1,8 +1,6 @@
 var http = require('http');
 var fs = require('fs');
 var index = fs.readFileSync( 'index.html');
-
-
 var SerialPort = require("serialport");
 
 const parsers = SerialPort.parsers;
